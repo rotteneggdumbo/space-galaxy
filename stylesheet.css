@@ -64,3 +64,6 @@ background-color: black;
 p{
 font-weight:bold;
 }
+
+p {background-image: linear-gradient(#fff700, #00fffb);
+}

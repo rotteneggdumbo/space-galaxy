@@ -32,9 +32,7 @@ font-style:italic;
 
 }
 
-h5{
-  color: FF00E1;
-}
+
 
 
 
@@ -69,3 +67,7 @@ p{
 font-weight:bold;
 }
 p { border: 4px solid #00fff5;}
+
+h5{
+  color: FF00E1;
+}

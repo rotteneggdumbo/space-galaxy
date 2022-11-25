@@ -1,6 +1,6 @@
 
 
-font-size: 17px;
+p{font-size: 17px;
 
 font-family: times new roman;
 
@@ -63,5 +63,4 @@ background-color: black;
 p{
 font-weight:bold;
 }
-p { border: 4px solid #00fff5
-};
+p { border: 4px solid #00fff5;}

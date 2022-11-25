@@ -1,4 +1,4 @@
-
+p {color:#FFE504;
 font-size: 17px;
 
 font-family: times new roman;
@@ -6,6 +6,12 @@ font-family: times new roman;
 font-style:italic;
 
 border: 4px solid #00fff5;
+
+}
+
+p {
+
+background-color: #00fff5;
 
 }
 
@@ -21,6 +27,7 @@ h1 {color:#FF00E1;
 h2 {color:#00fff5;
 }
 
+background-color: p {color:#00fff5;
 
 font-size: 17px;
 
@@ -35,7 +42,7 @@ border: 4px solid #00fff5;
 p {
 
 background-image: linear-gradient(#fff700, #00fffb);
-color:FF00E1
+color:#FF00E1
 
 }
                                 !--red=#FE0707;--   !--yellow=FFE504--
@@ -56,7 +63,4 @@ background-color: black;
 
 p{
 font-weight:bold;
-}
-
-p {color:FF00E1;
 }
